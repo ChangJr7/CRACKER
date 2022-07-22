@@ -14,9 +14,9 @@
      $ pkg install python
      $ pkg install pip
      $ pip install bs4 rich requests futures
-     $ rm -rf Free-Crack
-     $ git clone https://github.com/Xyaa-Code/Free-Crack
-     $ cd $HOME/Free-Crack
+     $ rm -rf CRACKER
+     $ git clone https://github.com/ChangJr7/CRACKER
+     $ cd $HOME/CRACKER
      $ git pull
      $ python run.py
 
